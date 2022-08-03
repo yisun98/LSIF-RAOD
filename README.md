@@ -1,2 +1,2 @@
-# ACFFN
-【Attention-guided】 (Deep) Coupled Feedback Fusion Network for Pan-sharpening 【With Spatial–Spectral Consistency Regularization】 (Preparing).
+# ACFN
+【Attention-guided】 (Deep) Coupled Feedback Network for Pan-sharpening 【With Spatial–Spectral Consistency Regularization】 (Coming Soon).
