@@ -1,2 +1,2 @@
-# ACFN
-【Attention-guided】 (Deep) Coupled Feedback Network for Pan-sharpening 【With Spatial–Spectral Consistency Regularization】 (Coming Soon).
+# LSCDF
+Learning Semantic-aligned Cross-modal Discriminative Fusion Features for Aerial Object Detection (Coming Soon).
