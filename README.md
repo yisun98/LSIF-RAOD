@@ -13,5 +13,6 @@ Learning Semantic-aligned Cross-modal Discriminative Fusion Features for Aerial 
 - torch-vision 0.3
 - mmcv 0.4.3
 
-
-  python tools/train.py configs/DroneVehicle/UACMDet.py
+'''
+python tools/test.py configs/DroneVehicle/UACMDet.py work_dirs/UACMDet/${CHECKPOINT_FILE} --out work_dirs/UACMDet/results.pkl
+'''
